@@ -1,0 +1,90 @@
+The txt2tags Handbook
+Eric Forgeot and the txt2tags team
+2014-04-19
+
+
+%% DEF DOCUMENT METADATA. Use your own. Remplace the second part only, don't modify the xx DOCUMENT ## xx 
+
+%!postproc(tex): 'xx DOCUMENT TITLE xx' 'The txt2tags Handbook'
+%!postproc(tex): 'xx DOCUMENT AUTHOR xx' 'Eric Forgeot and the txt2tags team'
+%!postproc(tex): 'xx DOCUMENT TAGS xx' ''
+
+
+%!style(tex): the_txt2tags_handbook.sty
+%!style(xhtml): the_txt2tags_handbook.css
+
+
+%!includeconf: /usr/share/textallion//core/textallion.t2t
+
+%!postproc(tex): 'TEXTALLIONPATH' '/usr/share/textallion/'
+
+
+
+= Forewords =
+
+= txt2tags for end users =
+
+== Introducing Txt2tags and lightweight markup language ==
+
+=== What can I do with txt2tags? ===
+=== Why should I use it? ===
+
+
+
+
+== Supported Formatting Structures ==
+
+
+== Targets ==
+
+
+== Interfaces ==
+
+=== web ===
+===commande line===
+===gui===
+
+
+== Installation ==
+
+
+
+=== Extra Tools ===
+==== Text editors ====
+==== External tools ====
+
+
+
+
+== Your First Document ==
+
+=== Header ===
+=== Body ===
+
+
+== Mastering Txt2tags Concepts ==
+
+
+=== Black Magic and tips ===
+
+
+== Writing books ==
+
+== Designing websites ==
+
+=== Static sites ===
+=== CMS ===
+
+== Linking website and books together ==
+
+
+
+= txt2tags for developpers =
+
+== Txt2tags Markup Rules ==
+
+== How to add a new target to Txt2tags ==
+
+== tools for developpers ==
+
+== man page ==
